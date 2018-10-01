@@ -38,4 +38,4 @@ message and then be allowed to create the pull request.
 
 # NAMES
 -----------------
-[DragonFury24][https://github.com/DragonFury24
+[DragonFury24][https://github.com/DragonFury24]
