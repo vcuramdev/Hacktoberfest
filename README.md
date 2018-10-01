@@ -33,3 +33,6 @@ Next, commit your changes and upload then to your github.
 To do a pull request
 
 
+# NAMES
+-----------------
+* [jonaylor89](https://github.com/jonaylor89)
