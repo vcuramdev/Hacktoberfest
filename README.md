@@ -38,5 +38,5 @@ message and then be allowed to create the pull request.
 
 # NAMES
 -----------------
-Jacob Draddy
+[Jacob Draddy](https://github.com/jakedraddy)
 
