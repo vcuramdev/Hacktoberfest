@@ -19,7 +19,8 @@ command to clone a repo onto your computer is:
 
 ## Editing
 For this repo, we're going to have you put your name in the README. Simply put
-your name linked to your github until the names list.
+your username linked to your github until the names list. (Follow the format of 
+the other names in the list)
 
 ## Pushing
 Next, commit your changes and upload then to your github.
@@ -30,9 +31,11 @@ Next, commit your changes and upload then to your github.
 ```
 
 ## Pull Request
-To do a pull request
+To do a pull request, go back to the RamDev github. Click on the *pull requests* 
+tab and then to create new pull request. You will be prompted to write a pull request
+message and then be allowed to create the pull request. 
 
 
 # NAMES
 -----------------
-* [jonaylor89](https://github.com/jonaylor89)
+
