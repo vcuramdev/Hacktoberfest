@@ -33,9 +33,8 @@ Next, commit your changes and upload then to your github.
 ## Pull Request
 To do a pull request, go back to the RamDev github. Click on the *pull requests* 
 tab and then to create new pull request. You will be prompted to write a pull request
-message and then be allowed to create the pull request. 
-
+message and then be allowed to create the pull request.
 
 # NAMES
 -----------------
-
+[rasha-hantash](https://github.com/rasha-hantash) 
