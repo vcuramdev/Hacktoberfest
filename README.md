@@ -38,4 +38,4 @@ message and then be allowed to create the pull request.
 
 # NAMES
 -----------------
-Nick
+*[copinf22] (https://github.com/copinf22)
