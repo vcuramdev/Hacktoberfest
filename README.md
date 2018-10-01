@@ -27,7 +27,7 @@ Next, commit your changes and upload then to your github.
 ```
     ~$ git add .
     ~$ git commit -m "<your-msg>"
-    ~$ git push origin master"
+    ~$ git push origin master
 ```
 
 ## Pull Request
