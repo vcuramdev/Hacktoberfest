@@ -38,4 +38,4 @@ message and then be allowed to create the pull request.
 
 # NAMES
 -----------------
-markgroves (https://github.com/magroves)
+[magroves] (https://github.com/magroves)
