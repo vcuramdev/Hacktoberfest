@@ -27,7 +27,7 @@ Next, commit your changes and upload then to your github.
 ```
     ~$ git add .
     ~$ git commit -m "<your-msg>"
-    ~$ git push origin master"
+    ~$ git push origin master
 ```
 
 ## Pull Request
@@ -38,6 +38,7 @@ message and then be allowed to create the pull request.
 
 # NAMES
 -----------------
+- [JustinMMiller](https://github.com/JustinMMiller)
 - [copinf22](https://github.com/copinf22)
 - [Jacob Draddy](https://github.com/jakedraddy)
 - [asusta](https:github.com/asusta)
