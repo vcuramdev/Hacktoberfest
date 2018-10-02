@@ -38,4 +38,5 @@ message and then be allowed to create the pull request.
 
 # NAMES
 -----------------
-[jonaylor89](https://github.com/jonaylor89)
+- [asusta](https:github.com/asusta)
+- [jonaylor89](https://github.com/jonaylor89)
