@@ -27,15 +27,23 @@ Next, commit your changes and upload then to your github.
 ```
     ~$ git add .
     ~$ git commit -m "<your-msg>"
-    ~$ git push origin master"
+    ~$ git push origin master
 ```
 
 ## Pull Request
 To do a pull request, go back to the RamDev github. Click on the *pull requests* 
 tab and then to create new pull request. You will be prompted to write a pull request
-message and then be allowed to create the pull request. 
-
+message and then be allowed to create the pull request.
 
 # NAMES
 -----------------
-[naofst](https://github.com/naofst)
+- [naofst](https://github.com/naofst)
+- [rasha-hantash](https://github.com/rasha-hantash) 
+- [DragonFury24](https://github.com/DragonFury24)
+- [princeSuzanne](https://github.com/princeSuzanne)
+- [magroves](https://github.com/magroves)
+- [JustinMMiller](https://github.com/JustinMMiller)
+- [copinf22](https://github.com/copinf22)
+- [Jacob Draddy](https://github.com/jakedraddy)
+- [asusta](https:github.com/asusta)
+- [jonaylor89](https://github.com/jonaylor89)
