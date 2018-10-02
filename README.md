@@ -38,5 +38,6 @@ message and then be allowed to create the pull request.
 
 # NAMES
 -----------------
-[Jacob Draddy](https://github.com/jakedraddy)
-
+- [Jacob Draddy](https://github.com/jakedraddy)
+- [asusta](https:github.com/asusta)
+- [jonaylor89](https://github.com/jonaylor89)
