@@ -37,6 +37,7 @@ message and then be allowed to create the pull request.
 
 # NAMES
 -----------------
+- [naofst](https://github.com/naofst)
 - [rasha-hantash](https://github.com/rasha-hantash) 
 - [DragonFury24](https://github.com/DragonFury24)
 - [princeSuzanne](https://github.com/princeSuzanne)
