@@ -23,7 +23,7 @@ your username linked to your github until the names list. (Follow the format of
 the other names in the list)
 
 ```
-[username](url-to-github-account)
+* [username](url-to-github-account)
 ```
 
 ## Pushing
