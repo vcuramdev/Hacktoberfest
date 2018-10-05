@@ -22,6 +22,10 @@ For this repo, we're going to have you put your name in the README. Simply put
 your username linked to your github until the names list. (Follow the format of 
 the other names in the list)
 
+```
+[username](url-to-github-account)
+```
+
 ## Pushing
 Next, commit your changes and upload then to your github.
 ```
