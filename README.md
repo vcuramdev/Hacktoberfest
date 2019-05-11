@@ -30,7 +30,7 @@ the other names in the list)
 Next, commit your changes and upload then to your github.
 ```
     ~$ git add .
-    ~$ git commit -m "<your-msg>"
+    ~$ git commit -m "your-msg"
     ~$ git push origin master
 ```
 
