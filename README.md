@@ -14,7 +14,7 @@ Cloning is the process of taking the repo online and putting it on your local
 machine. You do this whenever you want to edit something inside the repo. The
 command to clone a repo onto your computer is:
 ```
-    ~$ git clone <the-repo-url>.git
+    ~$ git clone the-repo-url.git
 ```
 
 ## Editing
