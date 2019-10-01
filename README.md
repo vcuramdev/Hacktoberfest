@@ -55,6 +55,8 @@ message and then be allowed to create the pull request.
 - [asusta](https:github.com/asusta)
 - [jonaylor89](https://github.com/jonaylor89)
 
+---------------------------------
+
 ### 2019
 - [jonaylor89](https://github.com/jonaylor89)
 
