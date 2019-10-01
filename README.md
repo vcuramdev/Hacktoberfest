@@ -41,6 +41,8 @@ message and then be allowed to create the pull request.
 
 # NAMES
 -----------------
+
+### 2018
 - [napierbw](https://github.com/napierbw)
 - [naofst](https://github.com/naofst)
 - [rasha-hantash](https://github.com/rasha-hantash) 
@@ -52,3 +54,10 @@ message and then be allowed to create the pull request.
 - [Jacob Draddy](https://github.com/jakedraddy)
 - [asusta](https:github.com/asusta)
 - [jonaylor89](https://github.com/jonaylor89)
+
+### 2019
+- [jonaylor89](https://github.com/jonaylor89)
+
+
+
+
