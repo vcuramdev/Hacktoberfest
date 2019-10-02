@@ -1,6 +1,10 @@
 # RamDev Hacktoberfest Repo
 
-This repo is for students wanting to create their first pull request. The
+--------------------------------
+
+## Disclaimer 
+
+*This repo is for VCU students* wanting to create their first pull request. The
 README.md file contains the intructions on how to add your name to this repo to
 get your first pull request.
 
@@ -60,7 +64,5 @@ message and then be allowed to create the pull request.
 ### 2019
 - [jonaylor89](https://github.com/jonaylor89)
 - [LordBrud](https://github.com/LordBrud)
-
-
-
+- [BatmaniNRobin](https://github.com/BatmaniNRobin)
 
