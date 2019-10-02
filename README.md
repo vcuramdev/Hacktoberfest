@@ -4,7 +4,7 @@
 
 ## Disclaimer 
 
-*This repo is for VCU students* wanting to create their first pull request. The
+**This repo is for VCU students** wanting to create their first pull request. The
 README.md file contains the intructions on how to add your name to this repo to
 get your first pull request.
 
