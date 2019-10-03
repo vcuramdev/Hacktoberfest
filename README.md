@@ -67,4 +67,7 @@ message and then be allowed to create the pull request.
 - [BatmaniNRobin](https://github.com/BatmaniNRobin)
 - [jzheadley](https://github.com/jzheadley)
 - [oladelemi](https://github.com/oladelemi)
+- [Dovacody](https://github.com/Dovacody)
+- [syoungstone](https://github.com/syoungstone)
+- [jdl626](https://github.com/jdl626)
 
