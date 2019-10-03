@@ -65,4 +65,5 @@ message and then be allowed to create the pull request.
 - [jonaylor89](https://github.com/jonaylor89)
 - [LordBrud](https://github.com/LordBrud)
 - [BatmaniNRobin](https://github.com/BatmaniNRobin)
+- [jzheadley](https://github.com/jzheadley)
 
