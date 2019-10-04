@@ -66,6 +66,7 @@ message and then be allowed to create the pull request.
 - [LordBrud](https://github.com/LordBrud)
 - [BatmaniNRobin](https://github.com/BatmaniNRobin)
 - [jzheadley](https://github.com/jzheadley)
+- [duahjb] (https://github.com/duahjb)
 - [Noby707](https://github.com/Noby707)
 - [Jacob Draddy](https://github.com/jakedraddy)
 - [K-Chapman](https://github.com/K-Chapman)
